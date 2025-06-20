@@ -18,7 +18,7 @@
 This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.
  
 
-## 🎉 Labs completed by <a name="acknowledgments" href="https://github.com/li812">Debdatta Sarkar</a>
+## 🎉 Labs completed by <a name="acknowledgments" href="https://github.com/li812">Ali Ahammad</a>
 
 ## ✋ <a href="https://www.coursera.support/s/article/209818863-Coursera-Honor-Code"> Stop Cheating or Plagiarism - ![Honor Code](https://img.shields.io/badge/Honor%20Code-Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)</a>
 
@@ -111,7 +111,7 @@ Dont jump into labs without study. Take time to study previous labs step by step
 
 #### © Copyright IBM Corporation
 
-#### © Copyright 2021 - [Debdatta Sarkar](https://github.com/li812)
+#### © Copyright 2025 - [Ali Ahammad](https://github.com/li812)
 
 <p align="center"><a href="https://www.credly.com/badges/52ccac89-9e3d-42a2-a0f8-ec392892f4e5/public_url"><img src="https://github.com/li812/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-capstone.png" alt="IBM Applied Data Science Capstone Project" width="190px"/></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/li812/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-specialization.1.png" alt="Applied Data Science Specialization" width="190px" padding="20px" /></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/li812/SpaceX-Data-Science-Project/blob/master/certificatebadge/data-science-professional-certificate.png" alt="Applied Data Science Specialization" width="185px"/> </a></p>
 
